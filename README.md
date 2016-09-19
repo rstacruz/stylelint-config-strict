@@ -1,6 +1,14 @@
 # stylelint-config-strict
 
-> Extra rules for styelint-config-standard
+> Extra rules for stylelint-config-standard
+
+This extends the rules of [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard) with some stricter rules.
+
+- No vendor prefixes
+- Use single quotes whenever possible
+- No styling of `#id`s
+
+## Install
 
 ```
 npm install --save @rstacruz/stylelint-config-strict
