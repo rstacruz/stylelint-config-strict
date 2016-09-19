@@ -1,6 +1,6 @@
 {
   "name": "@rstacruz/stylelint-config-strict",
-  "version": "13.0.0",
+  "version": "13.0.1",
   "description": "Supplementary rules for stylelint-config-standard",
   "main": "index.js",
   "scripts": {
