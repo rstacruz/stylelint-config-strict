@@ -1,0 +1,12 @@
+{
+  "name": "@rstacruz/stylelint-config-strict",
+  "version": "1.0.0",
+  "description": "Supplementary rules for stylelint-config-standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": ["stylelint", "css", "scss", "stylelint-config"],
+  "author": "Rico Sta. Cruz <rico@ricostacruz.com> (http://ricostacruz.com)",
+  "license": "MIT"
+}
