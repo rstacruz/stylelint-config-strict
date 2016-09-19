@@ -13,7 +13,6 @@ module.exports = {
     'selector-no-id': true,
     'selector-no-vendor-prefix': true,
     'string-quotes': 'single',
-    'value-keyword-case': 'lower',
     'value-no-vendor-prefix': true,
   }
 }
