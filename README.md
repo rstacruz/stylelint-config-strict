@@ -7,6 +7,7 @@ This extends the rules of [stylelint-config-standard](https://github.com/styleli
 - No vendor prefixes
 - Use single quotes whenever possible
 - No styling of `#id`s
+- Limit Sass nesting depth
 
 ## Install
 
