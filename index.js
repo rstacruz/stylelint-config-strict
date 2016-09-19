@@ -1,10 +1,13 @@
 module.exports = {
+  extends: [
+    require.resolve('stylelint-config-standard')
+  ],
   rules: {
-    'function-url-quotes': true,
-    'selector-attribute-quotes': true,
+    'function-url-quotes': "always",
+    'selector-attribute-quotes': "always",
     'selector-no-id': true,
     'selector-no-vendor-prefix': true,
     'string-quotes': 'single',
-    'value-keyword-case': true,
+    'value-keyword-case': "lower",
   }
 }

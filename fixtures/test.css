@@ -1,0 +1,7 @@
+a[data-hidden=true] { color: blue; }
+a[data-hidden="false"] { color: blue; }
+a { -webkit-border-radius: 0; }
+
+#foo {
+  color: blue
+}
