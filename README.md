@@ -3,14 +3,13 @@
 > Extra rules for styelint-config-standard
 
 ```
-npm install --save stylelint-config-standard @rstacruz/stylelint-config-strict
+npm install --save @rstacruz/stylelint-config-strict
 ```
 
 ```js
 // .stylelintrc
 {
   "extends": [
-    "stylelint-config-standard",
     "@rstacruz/stylelint-config-strict"
   ]
 }
